@@ -1,0 +1,17 @@
+body {
+    background-color: bisque;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    font-size: 20px;
+}
+
+li b{
+    font-size: 25px;
+}
+
+ul {
+    margin: auto;
+}
